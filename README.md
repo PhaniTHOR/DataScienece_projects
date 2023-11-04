@@ -1,6 +1,6 @@
 # DataScienece_projects
 
-Welcome to my project repository! 🌟
+Welcome to my project repository! 
 
 This repository showcases my work, featuring various projects that illustrate my passion for innovation, problem-solving, and continuous learning.
 
