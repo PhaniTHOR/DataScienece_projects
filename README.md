@@ -16,6 +16,13 @@ I invite you to browse through the projects, read their documentation, and learn
 
 Your presence here is appreciated, and I'm thrilled to have you on this journey. Please enjoy your visit, and if you have any questions, ideas, or contributions, feel free to contact me.
 
-For the project on Regression [Big_mart_sales](https://github.com/PhaniTHOR/Capstone_Project_1_on_Big_Mart_Scales/tree/main)
+#For the project on 
+
+|Regression|Classfications |
+|:----------:|:----------:|
+|[Big_mart_sales](https://github.com/PhaniTHOR/Capstone_Project_1_on_Big_Mart_Scales/tree/main)|[HR_Analytics](https://github.com/PhaniTHOR/HR_Analytics)|
+|[House_Price_Prediction](https://github.com/PhaniTHOR/House_Price_Prediction)||
+
+
 
 Regards Siddam Sai Phanindra  [LinkedIn](https://www.linkedin.com/in/sai-phanindra-siddam-112bb2289)
