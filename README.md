@@ -22,6 +22,7 @@ Your presence here is appreciated, and I'm thrilled to have you on this journey.
 |:----------:|:----------:|
 |[Big_mart_sales](https://github.com/PhaniTHOR/Capstone_Project_1_on_Big_Mart_Scales/tree/main)|[HR_Analytics](https://github.com/PhaniTHOR/HR_Analytics)|
 |[House_Price_Prediction](https://github.com/PhaniTHOR/House_Price_Prediction)|[Churn](https://github.com/PhaniTHOR/Telecom_Churn)|
+||[LOAN](https://github.com/PhaniTHOR/Loan)|
 
 
 
